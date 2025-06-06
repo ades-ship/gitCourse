@@ -1,2 +1,4 @@
 this is the bug fix file.
 bug1 is alreafdy fixed.
+bug2 is now fixed.
+bug3 is now fixed.
