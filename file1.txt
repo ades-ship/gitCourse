@@ -1,1 +1,3 @@
 this is the file 1
+added the header section.
+added the footer section.
